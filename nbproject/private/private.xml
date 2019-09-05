@@ -7,7 +7,10 @@
             <file>file:/Z:/ws-eclipse/chess-system/src/chess/ChessMatch.java</file>
             <file>file:/Z:/ws-eclipse/chess-system/src/boardgame/Piece.java</file>
             <file>file:/Z:/ws-eclipse/chess-system/src/boardgame/Position.java</file>
+            <file>file:/Z:/ws-eclipse/chess-system/src/chess/pieces/Rook.java</file>
             <file>file:/Z:/ws-eclipse/chess-system/src/chess/ChessPiece.java</file>
+            <file>file:/Z:/ws-eclipse/chess-system/src/boardgame/BoardException.java</file>
+            <file>file:/Z:/ws-eclipse/chess-system/src/chess/pieces/King.java</file>
             <file>file:/Z:/ws-eclipse/chess-system/src/application/UI.java</file>
             <file>file:/Z:/ws-eclipse/chess-system/src/boardgame/Board.java</file>
             <file>file:/Z:/ws-eclipse/chess-system/src/chess/Color.java</file>
